@@ -1,9 +1,3 @@
-Title: Software 2 GUI-Based Database Program
-Author: Trevor Bower
-Contact Information: Email - tbow133@wgu.edu | Phone - (804) 525-8099
-Student Application Version: 1.0 (Final Draft)
-Date: June 9, 2023
-
 IDE + Version Number: IntelliJ IDEA 2021.1.3 Community Edition
 JDK + Version Used: Java SE 17.0.1
 JavaFX Version Used: JavaFX-SDK-17.0.1
